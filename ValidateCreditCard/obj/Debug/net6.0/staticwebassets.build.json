@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RfsSPTNq4QwPk9gQSk8GV716nIDwL7yYd2Hs1CP7ldQ=",
+  "Source": "ValidateCreditCard",
+  "BasePath": "_content/ValidateCreditCard",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
